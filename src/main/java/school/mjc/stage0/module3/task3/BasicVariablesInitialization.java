@@ -3,14 +3,16 @@ package school.mjc.stage0.module3.task3;
 public class BasicVariablesInitialization {
     public static void main(String[] args) {
         //write code here
-        int one, two, three;
+        int first;
+        int second;
+        int third;
 
-        one = 1;
-        two = 10;
-        three = 100;
+        first = 1;
+        second = 10;
+        third = 100;
 
-        System.out.println(one);
-        System.out.println(two);
-        System.out.println(three);
+        System.out.println(first);
+        System.out.println(second);
+        System.out.println(third);
     }
 }
